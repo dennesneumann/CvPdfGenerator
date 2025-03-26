@@ -98,6 +98,7 @@ The entire content of the generated CV originates from the `cv_data.json` file.
 │       │   └── CvDocument.cs
 │       └── Program.cs
 ├── docs/
+│   ├── cv-example.pdf
 │   ├── cv-screenshot_1.png
 │   └── cv-screenshot_2.png
 ├── LICENSE
