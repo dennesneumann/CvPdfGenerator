@@ -105,7 +105,12 @@ The entire content of the generated CV originates from the `cv_data.json` file.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the **GNU General Public License v3.0 (GPLv3)**.
+- For full details, see the [LICENSE](LICENSE) file.
+- Under the GPLv3 license, you are free to use, modify, and distribute this code, provided you:
+  - Disclose the source code of any derivative works.
+  - Include the original license and copyright notice.
+  - Release derivative works under the same GPLv3 license.
 
 ## Contributing
 
