@@ -1,15 +1,15 @@
 # CvPdfGenerator
-
 A .NET application to generate a professional-looking CV/Resume PDF from structured JSON data, utilizing the excellent QuestPDF library. This project demonstrates creating complex, multi-column document layouts based on external data.
-
-![Generated PDF Screenshot Page 1](docs/cv-screenshot_1.png)
-![Generated PDF Screenshot Page 2](docs/cv-screenshot_2.png)
 
 ## Overview
 
 This project takes CV data defined in a simple JSON file (`cv_data.json`) and uses QuestPDF to render it into a polished, multi-page PDF document. It replicates a common two-column CV layout, separating contact/personal details and skills from work experience and education.
 
 The primary goal is to showcase how to structure data for document generation and implement the corresponding layout logic using QuestPDF in C#.
+
+## Example ([cv-example.pdf](docs/cv-example.pdf))
+![Generated PDF Screenshot Page 1](docs/cv-screenshot_1.png)
+![Generated PDF Screenshot Page 2](docs/cv-screenshot_2.png)
 
 ## Features
 
@@ -72,6 +72,14 @@ The entire content of the generated CV originates from the `cv_data.json` file.
 * **Editing:** Open `cv_data.json` in a text editor and modify the values for properties like `FullName`, `ProfileSummary`, `WorkExperience` items, `HardSkills`, etc., to match your details.
 * **Optional Fields:** Some fields in the C# models are nullable (e.g., `DateRange` or `Details` in `CvDevelopmentItem`). If you omit these from the JSON or set them to `null`, the rendering logic should handle their absence gracefully. Required fields (marked with `required` in C#) must be present in the JSON file.
 
+## Technologies Used
+
+* [.NET 9.0](https://dotnet.microsoft.com/)
+* [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+* [QuestPDF](https://www.questpdf.com/) (using Community License)
+* [QuestPDF Companion](https://www.questpdf.com/companion/usage.html)
+* [System.Text.Json](https://docs.microsoft.com/en-us/dotnet/standard/serialization/system-text-json-overview)
+
 ## Project Structure
 ```
 ├── .gitignore
@@ -95,13 +103,6 @@ The entire content of the generated CV originates from the `cv_data.json` file.
 ├── LICENSE
 └── README.md
 ```
-## Technologies Used
-
-* [.NET 9.0](https://dotnet.microsoft.com/)
-* [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
-* [QuestPDF](https://www.questpdf.com/) (using Community License)
-* [QuestPDF Companion](https://www.questpdf.com/companion/usage.html)
-* [System.Text.Json](https://docs.microsoft.com/en-us/dotnet/standard/serialization/system-text-json-overview)
 
 ## License
 

@@ -285,4 +285,4 @@ FodyWeavers.xml
 # --------------- Project Specific additions ---------------
 
 # Ignore generated PDF files
-*.pdf
+# *.pdf
