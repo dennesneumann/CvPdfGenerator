@@ -2,6 +2,7 @@
 using CvPdfGenerator.Data;
 using CvPdfGenerator.Rendering;
 using QuestPDF.Companion;
+using QuestPDF.Fluent;
 using QuestPDF.Infrastructure;
 
 namespace CvPdfGenerator
@@ -46,8 +47,8 @@ namespace CvPdfGenerator
                 Console.WriteLine($"Showing PDF preview in QuestPDF Companion (port 12500).");
                 document.ShowInCompanion(12500);
 #else
-				document.GeneratePdf(outputPdfPath);
-				Console.WriteLine($"PDF generated successfully at: {outputPdfPath}");
+                document.GeneratePdf(outputPdfPath);
+                Console.WriteLine($"PDF generated successfully at: {outputPdfPath}");
 #endif
 
                 Console.ForegroundColor = ConsoleColor.Green;
