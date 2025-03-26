@@ -1,0 +1,157 @@
+{
+  "FullName": "Anonymous User",
+  "JobTitle": "Software Developer / DevOps Engineer",
+  "PersonalData": {
+    "Street": "Generic Street 123",
+    "City": "Anytown",
+    "Email": "userxyz@example.com",
+    "Phone": "+1 555-123-4567",
+    "DateOfBirth": "YYYY-MM-DD in City",
+    "Nationality": "Not specified"
+  },
+  "ProfilePicturePath": ".\\profile_picture.jpg",
+  "ProfileSummary": "I am a technology-enthusiast software developer with a strong willingness to learn and analytical thinking skills. My focus is on continuously developing my technical skills and applying my knowledge in challenging projects. I value working in agile and collaborative teams to jointly develop efficient and innovative software solutions.",
+  "CoreCompetencies": [
+    "Extensive experience in developing database-driven web and client applications with C# and .NET",
+    "Solid knowledge of relational SQL databases (e.g., MSSQL, MariaDB) and NoSQL databases (e.g., MongoDB)",
+    "Expertise in CI/CD pipelines (Azure) and managing container solutions (Docker, Kubernetes)",
+    "Certified Microsoft DevOps Engineer with a focus on automation and deployment",
+    "Very good experience in agile working methods (Scrum) and close collaboration with interdisciplinary teams",
+    "High results orientation, analytical thinking skills, and solution-oriented work approach"
+  ],
+  "Attachments": [],
+  "WorkExperience": [
+    {
+      "DateRange": "08.2020 - Current",
+      "JobTitle": "Software Developer / DevOps Engineer",
+      "Company": "Freelancer",
+      "Responsibilities": [
+        "Implementation of CI/CD pipelines for deployment automation",
+        "Among other things, development and adaptation of the game server's source code to improve functionality and performance",
+        "Implementation of security measures and regular updates to ensure server stability",
+        "Technical support and troubleshooting for users"
+      ]
+    },
+    {
+      "DateRange": "10.2023 - 11.2023",
+      "JobTitle": "Front Office Employee",
+      "Company": "Printing Company, City",
+      "Responsibilities": []
+    },
+    {
+      "DateRange": "07.2019 - 05.2020",
+      "JobTitle": "Software Developer / DevOps Engineer",
+      "Company": "Tech Company, City",
+      "Responsibilities": [
+        "Implementation and maintenance of CI/CD pipelines with Azure DevOps and Jenkins...",
+        "Management and optimization of hybrid infrastructures in Azure Cloud and on-premises systems...",
+        "Further development of the company portal with C# and ASP.NET...",
+        "Development and migration of cloud services with Azure Functions, .NET Core, and Docker...",
+        "Creation of unit, integration, and UI tests with MSTest and Selenium...",
+        "Active participation in code reviews and continuous improvement...",
+        "Creation and maintenance of technical documentation as well as training..."
+      ]
+    },
+    {
+      "DateRange": "11.2016 - 05.2019",
+      "JobTitle": "Account Manager (Inside Sales)",
+      "Company": "Logistics/Telecom Company, City",
+      "Responsibilities": [
+        "Making inbound and outbound phone calls.",
+        "Planning and coordinating appointments with customers and internal teams",
+        "Identifying and resolving customer issues and inquiries",
+        "Maintaining and expanding customer relationships through regular contact",
+        "Creating reports and analyses on sales performance and customer activities"
+      ]
+    },
+    {
+      "DateRange": "02.2016 - 08.2016",
+      "JobTitle": "Warehouse Worker",
+      "Company": "Logistics Company, City",
+      "Responsibilities": []
+    },
+    {
+      "DateRange": "02.2013 - 09.2015",
+      "JobTitle": "IT System Administrator",
+      "Company": "IT Service Company, City",
+      "Responsibilities": [
+        "Implementation, installation, configuration, and regular maintenance of servers to ensure smooth operation",
+        "Management and support of software and hardware, including performing updates and upgrades",
+        "Conducting on-site customer appointments to analyze and resolve technical problems",
+        "On-site fault diagnosis and troubleshooting for technical problems to ensure system availability"
+      ]
+    },
+    {
+      "DateRange": "09.2010 - 01.2012",
+      "JobTitle": "Specialist Advisor Computer / Telecommunication",
+      "Company": "Retail/Telecom Company, City",
+      "Responsibilities": [
+        "Advising customers on computers, software, and telecommunication products to meet their needs",
+        "Conducting product demonstrations and presentations to explain the benefits and features of the products"
+      ]
+    },
+    {
+      "DateRange": "01.2008 - 06.2010",
+      "JobTitle": "Apprenticeship IT Business Clerk (Completed)",
+      "Company": "Computer Shop, City",
+      "Responsibilities": []
+    }
+  ],
+  "DevelopmentAndEducation": [
+    {
+      "DateRange": "08.2020 - 06.2023",
+      "TitleOrDescription": "Personal Time Off / Freelancer",
+      "Details": "During a personal break to care for a close relative, I intensively focused on personal and professional development. During this time, I managed pro-bono projects and gained valuable experience in software development and the DevOps area."
+    },
+    {
+      "DateRange": "01.2018 - ongoing",
+      "TitleOrDescription": "Continuous Further Education",
+      "Details": "Continuous further education in various programming languages, frameworks, and DevOps practices to always stay up-to-date with technology."
+    },
+    {
+      "DateRange": "06.2020 - 12.2020",
+      "TitleOrDescription": "Certification as DevOps Engineer (Microsoft)",
+      "Details": "Completion of the certification as DevOps Engineer (Microsoft) to gain in-depth knowledge in automating and optimizing development and deployment processes."
+    }
+  ],
+  "LanguageSkills": [
+    {
+      "Language": "German",
+      "Level": "Native Speaker"
+    },
+    {
+      "Language": "English",
+      "Level": "fluent in spoken and written"
+    }
+  ],
+  "HardSkills": [
+    "C#/.NET",
+    "Java",
+    "Azure DevOps",
+    "Azure Pipelines",
+    "Jenkins",
+    "Prometheus",
+    "Grafana",
+    "GitLab CI",
+    "Bash Scripts",
+    "Windows PowerShell",
+    "MySQL",
+    "Nginx",
+    "Docker (Compose)",
+    "MiniKube",
+    "Kubernetes"
+  ],
+  "SoftSkills": [
+    "Analytical thinking skills",
+    "Solution-oriented",
+    "Patience and perseverance",
+    "Commitment",
+    "Dedication",
+    "Flexible and creative problem-solving behavior",
+    "High quality awareness",
+    "Teamwork and cooperation skills",
+    "Collegial interaction",
+    "Authenticity"
+  ],
+  "DriversLicense": "Class A/B"
+}
